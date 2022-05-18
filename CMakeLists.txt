@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.4)
-project(main)
+project(cpack)
 
 add_subdirectory(formatter_lib)
 add_subdirectory(formatter_ex_lib)
